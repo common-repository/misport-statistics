@@ -1,0 +1,42 @@
+.wrap {
+}
+.wrap h2.nav-tab-wrapper {
+    border-bottom: 1px solid #CCCCCC;
+}
+.wrap h2.title .dashicons {
+    font-size: 30px; 
+    margin-right: 20px;
+    color: #D0D0D0;   
+}
+.wrap h2.title {
+}
+.wrap .content {
+    margin: 20px;
+    height: 2100px;
+}
+.wrap .content ul.help {
+    max-width: 1000px;
+    margin-left: 40px;   
+    list-style-type: none;
+    font-weight: bold;
+}
+.wrap .content ul.help li {
+
+}
+.wrap .content ul.help li img{
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.wrap .content ul.help li .ball {
+    display: inline-block;
+    background-color: #D0D0D0;
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    text-align: center;
+    line-height: 30px;
+    margin-right: 10px;
+    color: #444;
+}
+
